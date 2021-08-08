@@ -1,2 +1,1 @@
-// Javascript file //
-
+/// javascript code //
